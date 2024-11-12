@@ -34,8 +34,7 @@ pip install pygame numpy
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/connect-four-ai.git
-   cd connect-four-ai
+   git clone https://github.com/lukeshim/connect4AI.git
    ```
 
 2. Install the required packages:
@@ -48,7 +47,7 @@ pip install pygame numpy
 To run the Connect Four game, use the following command:
 
 ```bash
-python main.py
+python zero_game.py
 ```
 
 The game will open a window where you can play against the AI.
