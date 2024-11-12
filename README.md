@@ -1,5 +1,10 @@
 # Connect Four AI Game
 
+Got top 10% within around 1000 NUS CS students
+
+
+https://www.dropbox.com/scl/fi/ql4ijkp0wm1ss7gcof91r/2024-11-12-175237.png?rlkey=bv1ag9y1flootox8b7919exlp&st=tq3wo7hj&dl=0
+
 This repository contains an implementation of a Connect Four game featuring an AI agent developed using the minimax algorithm with alpha-beta pruning. The game is played between an AI agent and a human player using a Pygame interface.
 
 ## Table of Contents
