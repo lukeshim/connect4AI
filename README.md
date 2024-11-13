@@ -1,13 +1,11 @@
 # Connect Four AI Game
 
-Got top 10% within around 1000 NUS CS students
 
-
-https://www.dropbox.com/scl/fi/ql4ijkp0wm1ss7gcof91r/2024-11-12-175237.png?rlkey=bv1ag9y1flootox8b7919exlp&st=tq3wo7hj&dl=0
 
 This repository contains an implementation of a Connect Four game featuring an AI agent developed using the minimax algorithm with alpha-beta pruning. The game is played between an AI agent and a human player using a Pygame interface.
 
 ## Table of Contents
+- [Playing Video and Performance](#Playing-Video-and-Performance)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -15,6 +13,16 @@ This repository contains an implementation of a Connect Four game featuring an A
 - [AI Agent](#ai-agent)
 - [How to Play](#how-to-play)
 - [References](#references)
+
+# Zero Game Demo
+
+<video src="zero_game_demo.mp4" controls></video>
+
+
+Got top 10% within around 1000 NUS CS students
+
+
+https://www.dropbox.com/scl/fi/ql4ijkp0wm1ss7gcof91r/2024-11-12-175237.png?rlkey=bv1ag9y1flootox8b7919exlp&st=tq3wo7hj&dl=0
 
 ## Features
 - Connect Four game simulation using Pygame.
