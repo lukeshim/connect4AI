@@ -5,7 +5,6 @@
 This repository contains an implementation of a Connect Four game featuring an AI agent developed using the minimax algorithm with alpha-beta pruning. The game is played between an AI agent and a human player using a Pygame interface.
 
 ## Table of Contents
-- [Zero Game Demo](#Zero-Game-Demo)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -14,9 +13,7 @@ This repository contains an implementation of a Connect Four game featuring an A
 - [How to Play](#how-to-play)
 - [References](#references)
 
-## Zero-Game-Demo
 
-<video src="zero_game_demo.mp4" controls></video>
 https://www.dropbox.com/scl/fi/xzui1ekxqz68i406pfqct/zero_game.py-contest-Visual-Studio-Code-2024-11-13-20-01-45.mp4?rlkey=m8bb5ffgpq6vdbi1z4zkzjzx0&st=8hou7dx2&dl=0
 
 Got top 10% within around 1000 NUS CS students
